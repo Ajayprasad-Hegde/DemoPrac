@@ -20,5 +20,6 @@ public class Prac5 implements Prac3,Prac4
 	{
 		Prac4 p4 = new Prac5();
 	}
+	//---------------Change------------------------//
 
 }
